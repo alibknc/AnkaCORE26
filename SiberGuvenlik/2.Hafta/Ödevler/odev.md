@@ -247,4 +247,4 @@ Rapora başlamadan önce aşağıdaki temel kavramların üzerinden geçmeniz, a
 ---
 
 **Başarılar, Analist Adayları.**
-*AnkaCORE Operasyon Merkezi* 🦅
+*AnkaCORE Operasyon Merkezi*
