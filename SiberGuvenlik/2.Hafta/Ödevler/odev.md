@@ -9,7 +9,7 @@ Bu repo, Siber Güvenlik Mühendisliği eğitim programının ödev teslim ve ka
 ## 📅 HAFTA 2: Ağ Adli Analizi ve Derin Paket İnceleme (DPI)
 
 **Durum:** 🟢 Aktif  
-**Son Teslim:** Çarşamba 23:59
+**Son Teslim:** Cuma 23:59
 
 ### 🚀 Görev Özeti
 **"Ağ trafiği yalan söylemez."** Bir saldırgan sistemdeki logları silebilir, dosya tarihlerini değiştirebilir, hatta diski formatlayabilir. Ancak ağ kablosundan geçen elektrik sinyallerini (paketleri) geri alamaz.
